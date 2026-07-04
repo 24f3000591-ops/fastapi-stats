@@ -12,7 +12,7 @@ app = FastAPI()
 ALLOWED_ORIGIN = "https://dash-jcy61u.example.com"
 
 # Replace with YOUR logged-in email
-EMAIL = "your_email@example.com"
+EMAIL = "24f3000591@ds.study.iitm.ac.in"
 
 # Strict CORS
 app.add_middleware(
